@@ -264,7 +264,7 @@ the result. You have finished!
 You should be able to find your dataset by typing the title, or some relevant
 words from the description, into the search box on any page in your CKAN
 instance. For more information about finding data, see the section
-:ref:`finding_data`.
+:ref:`Пошук даних`.
 
 
 Editing a dataset
